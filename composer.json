@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/procedural-vs-oop",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Artur Świerc"
+    }
+  ],
+  "require": {
+    "php": "^8.1",
+    "ramsey/uuid": "^4.6",
+    "symfony/http-foundation": "^6.1"
+  }
+}
